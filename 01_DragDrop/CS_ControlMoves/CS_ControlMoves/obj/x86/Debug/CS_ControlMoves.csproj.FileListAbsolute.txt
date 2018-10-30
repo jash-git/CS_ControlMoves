@@ -1,0 +1,9 @@
+C:\Users\RD\AppData\Local\Temporary Projects\CS_ControlMoves\bin\Debug\CS_ControlMoves.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_ControlMoves\bin\Debug\CS_ControlMoves.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\CS_ControlMoves\obj\x86\Debug\CS_ControlMoves.Main.resources
+C:\Users\RD\AppData\Local\Temporary Projects\CS_ControlMoves\obj\x86\Debug\CS_ControlMoves.Properties.Resources.resources
+C:\Users\RD\AppData\Local\Temporary Projects\CS_ControlMoves\obj\x86\Debug\CS_ControlMoves.csproj.GenerateResource.Cache
+C:\Users\RD\AppData\Local\Temporary Projects\CS_ControlMoves\obj\x86\Debug\CS_ControlMoves.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_ControlMoves\obj\x86\Debug\CS_ControlMoves.pdb
+C:\Users\RD\Desktop\CS_ControlMoves\CS_ControlMoves\obj\x86\Debug\CS_ControlMoves.exe
+C:\Users\RD\Desktop\CS_ControlMoves\CS_ControlMoves\obj\x86\Debug\CS_ControlMoves.pdb

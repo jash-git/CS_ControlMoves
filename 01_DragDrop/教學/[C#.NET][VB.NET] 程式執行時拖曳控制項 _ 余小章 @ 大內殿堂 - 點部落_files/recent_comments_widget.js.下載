@@ -1,0 +1,97 @@
+
+
+document.write(' \
+<style type="text/css" media="screen">\
+	 .dsq-widget ul.dsq-widget-list {\
+	 padding: 0;\
+	 margin: 0;\
+	 text-align: left;\
+	 }\
+	 img.dsq-widget-avatar {\
+	 width: 32px;\
+	 height: 32px;\
+	 border: 0px;\
+	 margin: 0px;\
+	 padding: 0px 3px 3px 0px;\
+	 float: left;\
+	 }\
+	 a.dsq-widget-user {\
+	 font-weight: bold;\
+	 }\
+	 a.dsq-widget-thread {\
+	 font-weight: bold;\
+	 }\
+	 p.dsq-widget-meta {\
+	 clear: both;\
+	 font-size: 80%;\
+	 padding: 0;\
+	 margin: 0;\
+	 }\
+	 li.dsq-widget-item {\
+	 margin: 15px 0;\
+	 list-style-type: none;\
+	 clear: both;\
+	 }\
+	 span.dsq-widget-clout {\
+	 padding: 0 2px;\
+	 background-color: #ff7300;\
+	 color: #fff;\
+	 }\
+	 table.dsq-widget-horiz td {\
+	 padding-right: 15px;\
+	 }\
+	 .dsq-widget-comment p {\
+	 display: inline;\
+	 }\
+	 </style>\
+	 <ul class="dsq-widget-list">\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_yaochang_yu/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1540426646/images/noavatar92.png"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_yaochang_yu/">余小章</a>\
+	 <span class="dsq-widget-comment"><p>應該是要用組件才對，我錯，修正一下，謝謝你唷</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/yc421206/2015/06/19/151599">[C#.NET] 如何自訂 Configuration Section</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/yc421206/2015/06/19/151599#comment-4078109293">1 month ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_ClV5mY0EPP/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/26267/5312/avatar92.jpg?1536052615"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_ClV5mY0EPP/">李克威</a>\
+	 <span class="dsq-widget-comment"><p>關於&lt;section name="MySection" ...=""&gt;</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/yc421206/2015/06/19/151599">[C#.NET] 如何自訂 Configuration Section</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/yc421206/2015/06/19/151599#comment-4076596860">1 month ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_yaochang_yu/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1540426646/images/noavatar92.png"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_yaochang_yu/">余小章</a>\
+	 <span class="dsq-widget-comment"><p>我不太有印象了，不過看圖，應該是沒錯</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://www.dotblogs.com.tw/yc421206/2013/05/07/103067">[Modbus] 如何 用 C# 開發 Modbus Master Protocol - (01) 事前準備 | 余小章 @ 大內殿堂 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://www.dotblogs.com.tw/yc421206/2013/05/07/103067#comment-4056125137">2 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_gSxcyZgnq5/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/18921/2630/avatar92.jpg?1536313283"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_gSxcyZgnq5/">頑童張</a>\
+	 <span class="dsq-widget-comment"><p>不好意思 這兩個 是否 剛好寫反了 Modbus Slave 是擷取才對 Modbus Slave...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://www.dotblogs.com.tw/yc421206/2013/05/07/103067">[Modbus] 如何 用 C# 開發 Modbus Master Protocol - (01) 事前準備 | 余小章 @ 大內殿堂 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://www.dotblogs.com.tw/yc421206/2013/05/07/103067#comment-4053261185">2 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/www3000/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1540426646/images/noavatar92.png"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/www3000/">www3000</a>\
+	 <span class="dsq-widget-comment"><p>感謝分享！！！</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://www.dotblogs.com.tw/yc421206/archive/2012/06/25/73041.aspx">[C#.NET] 字串及檔案，利用 RSA 演算法加解密 | 余小章 @ 大內殿堂 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://www.dotblogs.com.tw/yc421206/archive/2012/06/25/73041.aspx#comment-4044521821">2 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/yichungli/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/29234/2949/avatar92.jpg?1531791421"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/yichungli/">Yi Chung Li</a>\
+	 <span class="dsq-widget-comment"><p>您好方便與我聯絡嗎?有些程式的問題想問您，再麻煩FB搜尋名稱或搜尋s2522480@yahoo.com.tw，或者...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/yc421206/2018/04/19/b_careful_entity_framework_6_trap">[C#.NET][Entity Framework] 幾個應該避開的寫法 | 余小章 @ 大內殿堂 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/yc421206/2018/04/19/b_careful_entity_framework_6_trap#comment-3992006392">3 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_yaochang_yu/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1540426646/images/noavatar92.png"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_yaochang_yu/">余小章</a>\
+	 <span class="dsq-widget-comment"><p>實驗得知XDDD</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/yc421206/2016/04/22/tfs2015_build_vnext_web_config_transform">[TFS 2015] 解決 MsBuild 沒有套用 Web.Config Transform | 余小章 @ 大內殿堂 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/yc421206/2016/04/22/tfs2015_build_vnext_web_config_transform#comment-3984923580">3 months ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_4zZF73Bhbs/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1540426646/images/noavatar92.png"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_4zZF73Bhbs/">Jeffrey Lee</a>\
+	 <span class="dsq-widget-comment"><p>“MsBuild 並不會套用 Web.config Transform”...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://dotblogs.com.tw/yc421206/2016/04/22/tfs2015_build_vnext_web_config_transform">[TFS 2015] 解決 MsBuild 沒有套用 Web.Config Transform | 余小章 @ 大內殿堂 - 點部落</a>&nbsp;&middot;&nbsp;<a href="https://dotblogs.com.tw/yc421206/2016/04/22/tfs2015_build_vnext_web_config_transform#comment-3984915186">3 months ago</a></p>\
+	 </li>\
+	 </ul>\
+');
